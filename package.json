@@ -1,5 +1,5 @@
 {
-  "name": "osmo-kit",
+  "name": "@sailfox/osmo-kit",
   "version": "1.0.0",
   "description": "This is a osmo kit with cosmjs sdk",
   "main": "./index.js",
