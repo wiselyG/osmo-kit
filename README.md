@@ -10,7 +10,7 @@ This is a toolkit for osmo transfer and query balance.
 import {queryBalance,transfer} from 'osmo-kit';
 
 const taskquery = async ()=>{
-  const balance = await queryBalance(mnemonic,0,axl_rpc);
+  const balance = await queryBalance(mnemonic,0,osmo_rpc);
   console.log(balance);
 }
 
